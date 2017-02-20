@@ -1,0 +1,11 @@
+c:\users\od-erdene\documents\visual studio 2015\Projects\SKMCSv3\SKMCSv3\obj\Debug\SKMCSv3.csprojResolveAssemblyReference.cache
+c:\users\od-erdene\documents\visual studio 2015\Projects\SKMCSv3\SKMCSv3\obj\Debug\SKMCSv3.Properties.Resources.resources
+c:\users\od-erdene\documents\visual studio 2015\Projects\SKMCSv3\SKMCSv3\obj\Debug\SKMCSv3.csproj.GenerateResource.Cache
+c:\users\od-erdene\documents\visual studio 2015\Projects\SKMCSv3\SKMCSv3\obj\Debug\SKMCSv3.Main.resources
+C:\Users\Od-Erdene\documents\visual studio 2015\Projects\SKMCSv3\SKMCSv3\obj\Debug\SKMCSv3.DGVForm1.resources
+C:\Users\Od-Erdene\documents\visual studio 2015\Projects\SKMCSv3\SKMCSv3\obj\Debug\SKMCSv3.DGVForm2.resources
+C:\Users\Od-Erdene\documents\visual studio 2015\Projects\SKMCSv3\SKMCSv3\bin\Debug\SKMCS.exe.config
+C:\Users\Od-Erdene\documents\visual studio 2015\Projects\SKMCSv3\SKMCSv3\bin\Debug\SKMCS.exe
+C:\Users\Od-Erdene\documents\visual studio 2015\Projects\SKMCSv3\SKMCSv3\bin\Debug\SKMCS.pdb
+C:\Users\Od-Erdene\documents\visual studio 2015\Projects\SKMCSv3\SKMCSv3\obj\Debug\SKMCS.exe
+C:\Users\Od-Erdene\documents\visual studio 2015\Projects\SKMCSv3\SKMCSv3\obj\Debug\SKMCS.pdb
